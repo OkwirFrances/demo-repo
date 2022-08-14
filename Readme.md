@@ -1,3 +1,2 @@
 # Demo
-some description
-some
+some description;
